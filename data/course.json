@@ -1,0 +1,28 @@
+{
+  "term": "Spring",
+  "year": "2026",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "left-wing-activism"
+  },
+  "course_image": {
+    "content": "",
+    "website": "left-wing-activism"
+  },
+  "course_title": "Left Wing Activism",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This is great",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "LW100",
+  "learning_resource_types": [],
+  "site_uid": "4926f85b-69fe-48b0-923d-9e65919bdc2c",
+  "site_short_id": "left-wing-activism",
+  "site_url_path": "courses/lw100-left-wing-activism-spring-2026"
+}
