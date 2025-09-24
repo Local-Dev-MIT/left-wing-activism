@@ -11,17 +11,17 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: ABC
-uid: 81d1de84-2078-4ee1-a016-2ca87649b88c
+title: Yeah
+uid: b58a9b95-5960-4186-96d1-5d03fffb4a1c
 video_files:
   archive_url: ''
-  video_captions_file: ''
-  video_thumbnail_file: https://img.youtube.com/vi/Z04fILiucSc/default.jpg
-  video_transcript_file: ''
+  video_captions_file: /courses/lw100-left-wing-activism-spring-2026/NJgZZ41rBXg_captions.webvtt
+  video_thumbnail_file: https://img.youtube.com/vi/NJgZZ41rBXg/default.jpg
+  video_transcript_file: /courses/lw100-left-wing-activism-spring-2026/NJgZZ41rBXg_transcript.pdf
 video_metadata:
   source: youtube
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: Z04fILiucSc
+  youtube_id: NJgZZ41rBXg
 ---
